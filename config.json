@@ -1,0 +1,43 @@
+{
+  "version": "6.3.0",
+  "min": "6.0.0",
+  "release_date": "26/07/2023",
+  "migrations": [
+    "database/migrations/2023_05_31_110537_add_column_to_checkouts_table.php",
+    "Modules/StudentSetting/Database/Migrations/2023_06_05_135749_AddLoginActivityForStudent.php",
+    "Modules/Quiz/Database/Migrations/2023_05_26_115313_AddOnlyShowWrongQuestionInAnswer.php",
+    "Modules/RolePermission/Database/Migrations/2023_06_16_164623_AddNewPermissionForNewFeature01.php",
+    "Modules/ModuleManager/Database/Migrations/2023_05_29_084129_add_bunny_storage_module.php",
+    "Modules/ModuleManager/Database/Migrations/2023_06_08_091150_AddTwoFAModule.php",
+    "Modules/ModuleManager/Database/Migrations/2023_06_01_190214_AddInstallmentModule.php",
+    "Modules/Setting/Database/Migrations/2023_06_16_180528_add_payout_account_permission.php",
+    "Modules/Setting/Database/Migrations/2023_06_19_082609_create_payout_accounts_table.php",
+    "Modules/Setting/Database/Migrations/2023_06_19_082743_create_payout_account_specifications_table.php",
+    "Modules/Setting/Database/Migrations/2023_06_19_123254_create_user_payout_accounts_table.php",
+    "Modules/Setting/Database/Migrations/2023_06_19_123401_create_user_payout_account_specifications_table.php",
+    "database/migrations/2023_06_15_112731_create_user_education_table.php",
+    "database/migrations/2023_06_15_145221_create_user_experiences_table.php",
+    "database/migrations/2023_06_15_171720_create_user_skills_table.php",
+    "database/migrations/2023_06_16_095615_create_user_documents_table.php",
+    "database/migrations/2023_06_16_153055_create_user_instant_messages_table.php",
+    "database/migrations/2023_06_16_161124_create_user_infos_table.php",
+    "database/migrations/2023_06_20_171004_create_delete_account_requests_table.php",
+    "database/migrations/2023_07_05_092644_create_user_followers_table.php",
+    "database/migrations/2023_07_06_103139_add_delete_request_permission_table.php",
+    "Modules/FrontendManage/Database/Migrations/2023_07_18_145703_AddAppOnlyFrontendPage.php",
+    "Modules/RolePermission/Database/Migrations/2023_07_18_154056_AddNewPermissionForNewFeature02.php",
+    "Modules/ModuleManager/Database/Migrations/2023_07_11_135345_AddCashbackModule.php",
+    "Modules/RolePermission/Database/Migrations/2023_07_21_163330_AddSaasColumnInPermissionTable.php",
+    "Modules/Setting/Database/Migrations/2023_07_24_104312_AddRDPRContentInCookieSetting.php",
+    "database/migrations/2023_07_24_130051_update_username_in_user_table.php",
+    "Modules/CourseSetting/Database/Migrations/2023_07_24_161815_AddAccessLimitInCourse.php",
+    "Modules/SystemSetting/Database/Migrations/2023_07_24_165253_AddNewEmailTemplete5.php",
+    "Modules/RolePermission/Database/Migrations/2023_07_13_141617_create_my_enrollment_permission_table.php",
+    "database/migrations/2023_07_31_113832_add_total_referral_user_column_to_users_table.php",
+    "Modules/Blog/Database/Migrations/2023_08_03_105915_create_blog_comment_replies_replies_table.php"
+  ],
+  "url": "https://www.aorasoft.com/",
+  "notes": "This is a bug fixing & new feature update."
+}
+
+
